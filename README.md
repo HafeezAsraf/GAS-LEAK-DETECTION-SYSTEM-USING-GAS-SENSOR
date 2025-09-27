@@ -88,4 +88,4 @@ void loop() {
 ## Output:
 https://github.com/user-attachments/assets/cfc92297-9018-47d2-8cee-a2929c9b79b5
 ## Result:
-Thus the Gas leak detection System was verified
+Thus the Gas leak detection System using Gas Sensor was verified
